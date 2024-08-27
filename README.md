@@ -19,7 +19,7 @@ Summary of data analysis:
   - Data analysis and visualizations: Pivot tables and dashboard designing for- 1. Sales Overview by Date, 2. Sales Breakdown by Customer Demographics, 3. Product Performance Analysis
                                       4. Geographical Sales Analysis, 5.Profit Margin Analysis by Product
 
-Dashboard ()
+Dashboard (https://github.com/kritika1694/Bike_sales/blob/main/Bike_sales.xlsx)
 
 
 ![b1](https://github.com/user-attachments/assets/91d70847-8b38-4aa5-8f06-b5a77bbe90a3)

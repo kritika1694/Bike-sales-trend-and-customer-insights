@@ -21,7 +21,7 @@ Insights from analysing this data:
 
 - Sales Overview by Date :
   Peaks and troughs suggest seasonal trends, where bike sales are higher during spring and summer, but shows fluctuations. Whereas the winter sales are less but more steady. The graph shows an
-  overall upward trend in sales, suggesting growth over time. Identifying these trends can help in stock management and promotional planning.
+  overall upward trend in sales, suggesting growth over time. 
 
 - Sales Breakdown by Customer Demographics:
   Shows age group, such as "Adults (35-64)" or "Young Adults (18-34)", contributes most to the sales. There is a noticeable difference in sales between genders, with one gender(Males) possibly leading in sales. 
